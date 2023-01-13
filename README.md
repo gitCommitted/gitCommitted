@@ -20,7 +20,7 @@ I am a full stack developer and parent of two with a passion for lifelong learni
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gitCommitted&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gitCommitted&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
